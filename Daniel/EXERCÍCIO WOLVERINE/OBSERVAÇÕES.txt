@@ -1,0 +1,27 @@
+Div imagem
+Largura: 800
+Centralizada
+
+Div conteúdo
+Largura: 750
+Centralizada
+Cor de fundo: branco
+Padding: 25
+
+Corpo da página
+Margem: 0
+Fundo: bg.png
+
+h1 : Tahoma, #fdab1b
+h3:  Tahoma, #fdab1b
+h4:  Tahoma, #c3820f
+
+Parágrafo
+Texto: Verdana, 12, preto, justificado, entrelinha 1.5
+
+Texto Legenda {
+Texto : Verdana, 10, #c3820f
+
+Link normal: Verdana, 12, #fdab1b, sem sublinhado
+Link mouse em cima: Verdana, 12, #c3820f, sublinhado
+Link visitado: Verdana, 12, #edc070, sem sublinhado
